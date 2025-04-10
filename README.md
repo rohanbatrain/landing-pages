@@ -1,5 +1,8 @@
 # Landing Pages
 
+![1](https://github.com/user-attachments/assets/fbb2fce6-b54c-4221-9e00-168199aaaa9f)
+
+
 This repository stores all the HTML landing pages for my applications. Each landing page serves as a simple, standalone entry point or showcase for a specific app, designed to be responsive and easily customizable.
 
 ## Repository Structure
